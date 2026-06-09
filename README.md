@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # Hey there, I'm Shubh 👋
 
 🚀 Full Stack Developer passionate about building impactful software solutions.
