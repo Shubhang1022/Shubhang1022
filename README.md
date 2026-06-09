@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hi 👋, I’m Shubhang Mishra, a passionate Full Stack Developer who loves building real-world web applications. I work mainly with the MERN stack (MongoDB, Express.js, React.js, Node.js) and enjoy creating clean, scalable, and user-friendly solutions.<br><br>I’m interested in AI-integrated applications, backend logic, and modern UI/UX design. I’ve worked on projects like TABU-AI, a smart AI chatbot for coding assistance, and WasteToUseful, an AI-based platform focused on sustainability and waste management.<br><br>I believe in writing clean code, learning continuously, and turning innovative ideas into practical products. Always open to collaboration and new challenges 🚀
+# Hey there, I'm Shubh 👋
+
+🚀 Full Stack Developer passionate about building impactful software solutions.
+
+### About Me
+- 💻 Building Full Stack Web Applications
+- 🤖 Exploring AI, Automation & Emerging Technologies
+- 🏆 Active Hackathon Participant
+- 📚 Consistently practicing DSA & Problem Solving
+- 🌱 Learning System Design & Scalable Architectures
+- 🚀 Interested in Startups, SaaS & Product Development
 
 
 ## 🌐 Socials:
