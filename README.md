@@ -1,22 +1,145 @@
+# Hi 👋, I'm **Shubhang Mishra**
 
-# Hey there, I'm Shubh 👋
+### Full Stack Developer • AI Engineer • Mobile App Developer
 
-🚀 Full Stack Developer passionate about building impactful software solutions.
+Building scalable full-stack applications, AI-powered products, and modern software solutions.
 
-### About Me
-- 💻 Building Full Stack Web Applications
-- 🤖 Exploring AI, Automation & Emerging Technologies
-- 🏆 Active Hackathon Participant
-- 📚 Consistently practicing DSA & Problem Solving
-- 🌱 Learning System Design & Scalable Architectures
-- 🚀 Interested in Startups, SaaS & Product Development
+---
 
+## 🚀 About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhang-mishra/) 
-EMAIL : mishrashanu233@gmail.com
+* 🔭 Currently building **HireMind** (AI Recruiter Copilot) and **Nexora** (Peer-to-Peer Internet Relay Platform)
+* 🌱 Exploring **AI Agents, System Design, Cloud Computing, DevOps, and Scalable Backend Architecture**
+* 💡 Passionate about building products that solve real-world problems using AI and modern technologies
+* 🤝 Open to **Internships**, **Freelancing**, **Open Source**, and **Collaboration Opportunities**
+* ⚡ Always learning and experimenting with emerging technologies
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+---
 
+## 🛠 Tech Stack
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,flutter,dart,tailwind,nodejs,express,fastapi,python,mongodb,postgres,supabase,docker,gcp,git,github,postman,vscode&perline=10" />
+</p>
+
+### AI / ML
+
+* 🤖 OpenRouter
+* 🧠 Hugging Face Transformers
+* 🔍 Sentence Transformers
+* 📚 FAISS
+* ⚡ Vector Embeddings
+* 🔎 Semantic Search
+* 💬 LLM Integration
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 HireMind — AI Recruiter Copilot
+
+AI-powered recruitment platform for semantic resume screening, candidate ranking, recruiter analytics, and AI-driven hiring.
+
+**Tech:** React • FastAPI • Supabase • PostgreSQL • FAISS • Sentence Transformers • Docker
+
+---
+
+### 🌐 Nexora — Peer-to-Peer Internet Relay Platform
+
+Secure mobile platform enabling trusted internet sharing with real-time monitoring and scalable networking architecture.
+
+**Tech:** Flutter • Riverpod • Supabase • Node.js • Socket.IO • PostgreSQL
+
+---
+
+### 🚚 CarbonChain
+
+GPS-based carbon emission tracking platform for logistics operators with automated Scope 3 reporting.
+
+---
+
+### 🌱 ECOINNOVATE
+
+AI-powered sustainability platform generating innovative e-waste management solutions.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shubhang1022&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhang1022&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=shubhang1022&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhang1022&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+* 💯 Solved **100+** Data Structures & Algorithms problems on LeetCode
+* 🏆 GeeksforGeeks Campus Mantri
+* 🥈 Semi-Finalist — **RIFT Hackathon (PWIOI)**
+* 🥈 Semi-Finalist — **AI & Health Hackathon (CU)**
+* 🚀 Built and deployed **6+ AI-powered & Full Stack applications**
+
+---
+
+## 💼 Areas of Interest
+
+* Full Stack Development
+* Artificial Intelligence
+* Software Engineering
+* Mobile App Development
+* System Design
+* Cloud Computing
+* Developer Tools
+
+---
+
+## 📬 Let's Connect
+
+I'm always happy to discuss technology, collaborate on projects, freelance opportunities, or internship roles.
+
+<p align="left">
+
+<a href="mailto:mishrashanu233@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shubhang-mishra/">
+<img src="https://img.shields.io/badge/LinkedIn-Shubhang_Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shubhang1022">
+<img src="https://img.shields.io/badge/GitHub-shubhang1022-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://shubhang-alpha.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<i>"Building intelligent software that creates real-world impact."</i>
+</p>
